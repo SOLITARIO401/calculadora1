@@ -11,7 +11,7 @@ echo -e "\e[1;33m  ▝▄▟▘ ▙▟ ▐▄▄▖▗▟▄  ▐  ▐  ▌▐  
 echo -e "\e[36m             [By SolitaroHack]                 "
 echo
 echo
-echo -e "\e[1;94m"
+echo -e "\e[1;93m"
 echo "::::::::::::::[ CALCULADORA ] :::::::::::::"
 echo ":            💀SOLITARIO OFC💀            :"
 echo ":::::::::::::::::::::::::::::::::::::::::::"
