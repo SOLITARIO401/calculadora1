@@ -54,7 +54,7 @@ elif
              echo ""
              echo "EL RESULTADO ES :[$RESTA]"
              echo
-             echo "ponte a Estudiar sonso"
+             echo "¡ponte a Estudiar sonso!"
 elif
              [ $OPC -eq 3 ]; then
              read -p "INTRODUZCA UN NUMERO: " N1
@@ -63,7 +63,7 @@ elif
              echo ""
              echo "EL RESULTADO ES : [$MULTI]"
              echo ""
-             echo "ponte a Estudiar sonso"
+             echo "¡ponte a Estudiar sonso!"
 elif
              [ $OPC -eq 4 ]; then
              read -p "INTRODUZCA UN NUMERO: " N1
